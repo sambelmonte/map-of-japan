@@ -50,9 +50,7 @@ function reset(event) {
 
 function clicked(event) {
   event.stopPropagation();
-  const prefId = event.target.parentNode.id
-    ? event.target.parentNode.id
-    : event.target.parentNode.parentNode.id;
+  const prefId = event.target.parentNode.id.slice(0,5);
   if (chosen === prefId) {
     reset();
   } else {
