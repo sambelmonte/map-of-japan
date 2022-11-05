@@ -24,8 +24,8 @@
 		<polygon class="st0" points="3568.8,1306.1 3588.7,1306.1 3588.7,1315.8 3577.1,1320.7 3573.8,1346.2 3560.4,1349.8 3557.1,1345.3 
 			3557.1,1331.7 3553.7,1314.8 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 4125.2271 996.8337)" class="pref-text-eng">HOKKAIDO</text>
-		<text transform="matrix(1 0 0 1 4158.3467 996.1978)" class="pref-text-jpn">北海道</text>
+		<text transform="matrix(1 0 0 1 4125.2271 996.8337)" class="text text-eng">HOKKAIDO</text>
+		<text transform="matrix(1 0 0 1 4158.3467 996.1978)" class="text text-jpn">北海道</text>
 	</g>
 	<g id="JP-02" class="prefecture">
 		<g class="pref-shape">
@@ -38,8 +38,8 @@
 			c0.8-0.3-5.6,34.4-5.6,34.4l-13.2,24.9l-24.2,11.1l-11.5-7.1c0,0-15.8,8-13.9,7.8c1.9-0.2-26.7,31.8-26.7,31.8l1.5,5.2l13.2,4
 			l2.9,34.4l17.3,1.3L3689.4,1734.6z"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3750.6384 1701.0608)" class="pref-text-eng">AOMORI</text>
-		<text transform="matrix(1 0 0 1 3764.3425 1701.3425)" class="pref-text-jpn">青森県</text>
+		<text transform="matrix(1 0 0 1 3750.6384 1701.0608)" class="text text-eng">AOMORI</text>
+		<text transform="matrix(1 0 0 1 3764.3425 1701.3425)" class="text text-jpn">青森県</text>
 	</g>
 	<g id="JP-03" class="prefecture">
 		<g class="pref-shape">
@@ -52,8 +52,8 @@
 			4067.3,2050.3 4059.1,2045 4073.3,2042.6 4073.3,2031.9 4062.2,2032.1 4066.3,2028.2 4063.3,2022.6 4080.7,2010.1 4071.3,1998.8 
 			4076.9,1992.1 4089.1,1992.3 4093.6,1977.6 4077.4,1983 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3886.2842 1960.9348)" class="pref-text-eng">IWATE</text>
-		<text transform="matrix(1 0 0 1 3883.9246 1958.7764)" class="pref-text-jpn">岩手県</text>
+		<text transform="matrix(1 0 0 1 3886.2842 1960.9348)" class="text text-eng">IWATE</text>
+		<text transform="matrix(1 0 0 1 3883.9246 1958.7764)" class="text text-jpn">岩手県</text>
 	</g>
 	<g id="JP-04" class="prefecture">
 		<g class="pref-shape">
@@ -66,8 +66,8 @@
 			3990.7,2218.6 3987.5,2205.8 3972.7,2201 3987,2186.4 3969.6,2180.7 3970,2175.2 3980.2,2172.1 3994.4,2165.7 3993.9,2157.5 
 			3984.2,2149.2 3998.5,2135.4 3999.6,2119.8 4016.6,2129.9 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3810.989 2218.1216)" class="pref-text-eng">MIYAGI</text>
-		<text transform="matrix(1 0 0 1 3815.3608 2216.4214)" class="pref-text-jpn">宮城県</text>
+		<text transform="matrix(1 0 0 1 3810.989 2218.1216)" class="text text-eng">MIYAGI</text>
+		<text transform="matrix(1 0 0 1 3815.3608 2216.4214)" class="text text-jpn">宮城県</text>
 	</g>
 	<g id="JP-05" class="prefecture">
 		<g class="pref-shape">
@@ -81,8 +81,8 @@
 		<polygon class="st0" points="3675.1,1832.3 3664.8,1845.1 3665.6,1852.1 3662.7,1856.1 3662.5,1861.8 3665.2,1862.8 3668.1,1866.5 
 			3677.1,1868.1 3684.9,1861.1 3687.2,1840.9 3682.9,1834.7 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3703.7759 1926.5294)" class="pref-text-eng">AKITA</text>
-		<text transform="matrix(1 0 0 1 3691.8237 1930.8494)" class="pref-text-jpn">秋田県</text>
+		<text transform="matrix(1 0 0 1 3703.7759 1926.5294)" class="text text-eng">AKITA</text>
+		<text transform="matrix(1 0 0 1 3691.8237 1930.8494)" class="text text-jpn">秋田県</text>
 	</g>
 	<g id="JP-06" class="prefecture">
 		<g class="pref-shape">
@@ -91,8 +91,8 @@
 			3741.5,2087.7 3736.1,2093.7 3694.3,2076.2 3687.4,2067 3650.2,2063.9 3648.3,2071.8 3631.1,2125.7 3620,2153.2 3595.9,2175.4 
 			3579.5,2209.2 3620.8,2220.1 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3556.2695 2167.8042)" class="pref-text-eng">YAMAGATA</text>
-		<text transform="matrix(1 0 0 1 3631.8584 2216.1396)" class="pref-text-jpn">山形県</text>
+		<text transform="matrix(1 0 0 1 3556.2695 2167.8042)" class="text text-eng">YAMAGATA</text>
+		<text transform="matrix(1 0 0 1 3631.8584 2216.1396)" class="text text-jpn">山形県</text>
 	</g>
 	<g id="JP-07" class="prefecture">
 		<g class="pref-shape">
@@ -102,8 +102,8 @@
 			3726.4,2575.9 3729.2,2604.1 3770.4,2629.3 3807.3,2606.4 3838.7,2616.3 3839.1,2605.2 3862.6,2598.3 3875,2583.1 3881.3,2540.1 
 			3886.3,2476.3 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3611.728 2501.5195)" class="pref-text-eng">FUKUSHIMA</text>
-		<text transform="matrix(1 0 0 1 3661.1372 2501.4297)" class="pref-text-jpn">福島県</text>
+		<text transform="matrix(1 0 0 1 3611.728 2501.5195)" class="text text-eng">FUKUSHIMA</text>
+		<text transform="matrix(1 0 0 1 3661.1372 2501.4297)" class="text text-jpn">福島県</text>
 	</g>
 	<g id="JP-08" class="prefecture">
 		<g class="pref-shape">
@@ -111,8 +111,8 @@
 			3770.7,2844.2 3853.6,2893.7 3853.6,2889.5 3841.5,2881.3 3818.8,2844 3794.2,2751.8 3807.2,2732.5 3804.5,2710.3 3821.2,2664.5 
 			3834.6,2624.2 3838.5,2623.9 3838.7,2616.3 3807.3,2606.4 3770.4,2629.3 3730.1,2604.6 3733.8,2651.9 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3639.3127 2802.1924)" class="pref-text-eng">IBARAKI</text>
-		<text transform="matrix(1 0 0 1 3651.7437 2804.5757)" class="pref-text-jpn">茨城県</text>
+		<text transform="matrix(1 0 0 1 3639.3127 2802.1924)" class="text text-eng">IBARAKI</text>
+		<text transform="matrix(1 0 0 1 3651.7437 2804.5757)" class="text text-jpn">茨城県</text>
 	</g>
 	<g id="JP-09" class="prefecture">
 		<g class="pref-shape">
@@ -120,8 +120,8 @@
 			3720.9,2658.1 3733.8,2651.9 3730.1,2604.6 3729.2,2604.1 3726.4,2575.9 3669.3,2545.2 3642.9,2549.8 3640.2,2562.4 3550.8,2605.1 
 			3545.5,2603.4 3545.9,2675.9 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3553.0017 2665.324)" class="pref-text-eng">TOCHIGI</text>
-		<text transform="matrix(1 0 0 1 3564.0732 2667.7427)" class="pref-text-jpn">栃木県</text>
+		<text transform="matrix(1 0 0 1 3553.0017 2665.324)" class="text text-eng">TOCHIGI</text>
+		<text transform="matrix(1 0 0 1 3564.0732 2667.7427)" class="text text-jpn">栃木県</text>
 	</g>
 	<g id="JP-10" class="prefecture">
 		<g class="pref-shape">
@@ -129,8 +129,8 @@
 			3497,2765.5 3567,2782.5 3611.3,2773.8 3598.7,2762.6 3570.5,2758.8 3548.5,2736.1 3574,2684.7 3545.9,2675.9 3545.5,2603.4 
 			3534,2599.8 3524.3,2596.7 3524.3,2594.1 3494,2576.3 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3383.0234 2710.1394)" class="pref-text-eng">GUNMA</text>
-		<text transform="matrix(1 0 0 1 3346.9395 2709.97)" class="pref-text-jpn">　群馬県</text>
+		<text transform="matrix(1 0 0 1 3383.0234 2710.1394)" class="text text-eng">GUNMA</text>
+		<text transform="matrix(1 0 0 1 3346.9395 2709.97)" class="text text-jpn">　群馬県</text>
 	</g>
 	<g id="JP-11" class="prefecture">
 		<g class="pref-shape">
@@ -138,8 +138,8 @@
 			3629.7,2805.3 3625.1,2807.4 3614.9,2786.3 3621.1,2782.5 3611.3,2773.8 3567,2782.5 3497,2765.5 3484.3,2794.9 3414.9,2826.3 
 			3416.9,2848.5 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3447.386 2846.0959)" class="pref-text-eng">SAITAMA</text>
-		<text transform="matrix(1 0 0 1 3422.4189 2847.5232)" class="pref-text-jpn">　埼玉県</text>
+		<text transform="matrix(1 0 0 1 3447.386 2846.0959)" class="text text-eng">SAITAMA</text>
+		<text transform="matrix(1 0 0 1 3422.4189 2847.5232)" class="text text-jpn">　埼玉県</text>
 	</g>
 	<g id="JP-12" class="prefecture">
 		<g class="pref-shape">
@@ -149,8 +149,8 @@
 			c0,0,0.8,9,2.7,8.9c1.9,0,20.2-3,20.2-3l8.7-8.3l1.5-15.7l22.9-14.9l6.5-10.7l21.5,0.2l16.5-6.2l12.1-8.9l6.5-14.1l2.8-23l-4-24.1
 			l28-40.7l35.4-23.5h9.7l14.4-5.2l9,5.2L3853.6,2893.7z"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3710.4199 2983.9697)" class="pref-text-eng">CHIBA</text>
-		<text transform="matrix(1 0 0 1 3654.9126 2986.3726)" class="pref-text-jpn">　千葉県</text>
+		<text transform="matrix(1 0 0 1 3710.4199 2983.9697)" class="text text-eng">CHIBA</text>
+		<text transform="matrix(1 0 0 1 3654.9126 2986.3726)" class="text text-jpn">　千葉県</text>
 	</g>
 	<g id="JP-13" class="prefecture">
 		<g class="pref-shape">
@@ -158,8 +158,8 @@
 			3524.8,2926.2 3544.7,2926.2 3572.3,2948.3 3581.3,2917.5 3619.2,2941.5 3629.6,2939.5 3627.5,2935.5 3632.7,2922 3639.8,2915.4 
 			3654,2917.9 3661.2,2909.9 3664.7,2904.2 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3499.6895 2916.5325)" class="pref-text-eng">TOKYO</text>
-		<text transform="matrix(1 0 0 1 3502.0234 2918.8345)" class="pref-text-jpn">東京都</text>
+		<text transform="matrix(1 0 0 1 3499.6895 2916.5325)" class="text text-eng">TOKYO</text>
+		<text transform="matrix(1 0 0 1 3502.0234 2918.8345)" class="text text-jpn">東京都</text>
 	</g>
 	<g id="JP-14" class="prefecture">
 		<g class="pref-shape">
@@ -167,8 +167,8 @@
 			l34.5-2.5l23.1,12c0,0,3.7,27.9,5.3,28.3s13.9-3.9,13.9-3.9l-2.8-10.1l9.2-4l7.5-11.8l-23.2-11.1l2.1-19.2l8.3-10.5l-5.4-9.6
 			l17.1-2l10.5-8.6l-3.9-7.6l-10.4,2l-37.9-24l-9.1,30.8l-27.5-22.1h-19.9l-27-18.1l0.6,27L3457.6,2964.6z"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3506.4976 3150.8955)" class="pref-text-eng">KANAGAWA</text>
-		<text transform="matrix(1 0 0 1 3518.3416 3150.5183)" class="pref-text-jpn">神奈川県</text>
+		<text transform="matrix(1 0 0 1 3506.4976 3150.8955)" class="text text-eng">KANAGAWA</text>
+		<text transform="matrix(1 0 0 1 3518.3416 3150.5183)" class="text text-jpn">神奈川県</text>
 	</g>
 	<g id="JP-15" class="prefecture">
 		<g class="pref-shape">
@@ -181,8 +181,8 @@
 			3357.2,2320 3358.7,2306.7 3364.4,2297.3 3371.5,2275.9 3374.1,2259.5 3372.2,2256.8 3360.2,2260.6 3356.2,2273.4 3348.4,2277.2 
 			3342.7,2285.7 3330.9,2294.2 3316.4,2319.4 3313.4,2333 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3341.3579 2555.6646)" class="pref-text-eng">NIIGATA</text>
-		<text transform="matrix(1 0 0 1 3435.0845 2440.5034)" class="pref-text-jpn">新潟県</text>
+		<text transform="matrix(1 0 0 1 3341.3579 2555.6646)" class="text text-eng">NIIGATA</text>
+		<text transform="matrix(1 0 0 1 3435.0845 2440.5034)" class="text text-jpn">新潟県</text>
 	</g>
 	<g id="JP-16" class="prefecture">
 		<g class="pref-shape">
@@ -190,8 +190,8 @@
 			3215.1,2687.1 3221.1,2636.9 3209.3,2599.7 3187.5,2586.3 3166.4,2592.5 3150.1,2603.4 3140.1,2632 3125.7,2642.4 3102.8,2641.7 
 			3063.4,2613 3071.1,2600.7 3074.6,2591.7 3044.5,2604.3 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3030.938 2685.5676)" class="pref-text-eng">TOYAMA</text>
-		<text transform="matrix(1 0 0 1 3042.6416 2691.208)" class="pref-text-jpn">富山県</text>
+		<text transform="matrix(1 0 0 1 3030.938 2685.5676)" class="text text-eng">TOYAMA</text>
+		<text transform="matrix(1 0 0 1 3042.6416 2691.208)" class="text text-jpn">富山県</text>
 	</g>
 	<g id="JP-17" class="prefecture">
 		<g class="pref-shape">
@@ -201,8 +201,8 @@
 			c-0.4-0.3-10.5-2.8-10.5-2.8l-24.4,12.5l-16,48l9.4,4.5l1.9,17.4l7.9,20.3l-2,12.2l4.2,8.1l-41.9,82.4l-39.9,45.2l-15.4,9.6
 			l-12.3,13.3l-0.8,0.3l27.8,27.8L2977,2790z"/>
 		</g>
-		<text transform="matrix(1 0 0 1 2813.7051 2724.1021)" class="pref-text-eng">ISHIKAWA</text>
-		<text transform="matrix(1 0 0 1 2874.6104 2727.0366)" class="pref-text-jpn">石川県</text>
+		<text transform="matrix(1 0 0 1 2813.7051 2724.1021)" class="text text-eng">ISHIKAWA</text>
+		<text transform="matrix(1 0 0 1 2874.6104 2727.0366)" class="text text-jpn">石川県</text>
 	</g>
 	<g id="JP-18" class="prefecture">
 		<g class="pref-shape">
@@ -213,8 +213,8 @@
 			2809,2946.4 2796.1,2951.2 2784.4,2952.2 2792.2,2940 2784.4,2939.8 2770.7,2950.5 2761.2,2947 2762.8,2935.9 2756.4,2932.2 
 			2749.6,2956.1 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 2877.8584 2854.0552)" class="pref-text-eng">FUKUI</text>
-		<text transform="matrix(1 0 0 1 2819.3447 2857.1597)" class="pref-text-jpn">　福井県</text>
+		<text transform="matrix(1 0 0 1 2877.8584 2854.0552)" class="text text-eng">FUKUI</text>
+		<text transform="matrix(1 0 0 1 2819.3447 2857.1597)" class="text text-jpn">　福井県</text>
 	</g>
 	<g id="JP-19" class="prefecture">
 		<g class="pref-shape">
@@ -222,8 +222,8 @@
 			3344.9,2993.3 3352.2,3024 3379,3023.7 3375.5,2973.2 3390.1,2965.7 3409.2,2983 3456.8,2974.6 3457.6,2964.6 3498.4,2935.1 
 			3497.8,2908.1 3476.3,2893.6 3460.7,2863.8 3460.1,2864.3 3416.9,2848.5 3416.8,2847 3408.8,2856.9 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3377.3784 3235.5437)" class="pref-text-eng">YAMANASHI</text>
-		<text transform="matrix(1 0 0 1 3332.0273 2938.7773)" class="pref-text-jpn">山梨県</text>
+		<text transform="matrix(1 0 0 1 3377.3784 3235.5437)" class="text text-eng">YAMANASHI</text>
+		<text transform="matrix(1 0 0 1 3332.0273 2938.7773)" class="text text-jpn">山梨県</text>
 	</g>
 	<g id="JP-20" class="prefecture">
 		<g class="pref-shape">
@@ -233,8 +233,8 @@
 			3402.8,2726.2 3347.6,2716.1 3379.5,2658.1 3413.1,2647.8 3413.8,2647.2 3383.1,2578 3350.4,2586.5 3328.1,2618.1 3278,2631.7 
 			3276.5,2610.4 3249.6,2606.1 3221.3,2637.7 3221.1,2636.9 3215.1,2687.1 3186,2730.1 3180.4,2729.2 3197.1,2750.5 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3199.8857 2809.5974)" class="pref-text-eng">NAGANO</text>
-		<text transform="matrix(1 0 0 1 3172.4927 2804.0581)" class="pref-text-jpn">　長野県</text>
+		<text transform="matrix(1 0 0 1 3199.8857 2809.5974)" class="text text-eng">NAGANO</text>
+		<text transform="matrix(1 0 0 1 3172.4927 2804.0581)" class="text text-jpn">　長野県</text>
 	</g>
 	<g id="JP-21" class="prefecture">
 		<g class="pref-shape">
@@ -244,8 +244,8 @@
 			3028.1,2749.8 3025.2,2761.3 3034.5,2767.6 3015.8,2803.1 3010.6,2824.5 3030.1,2865.1 3024.2,2876.6 2938.4,2880.9 2919.1,2907.3 
 			2918,2907.2 2951.5,2962.8 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3004.3086 2936.8857)" class="pref-text-eng">GIFU</text>
-		<text transform="matrix(1 0 0 1 2985.5703 2938.7773)" class="pref-text-jpn">岐阜県</text>
+		<text transform="matrix(1 0 0 1 3004.3086 2936.8857)" class="text text-eng">GIFU</text>
+		<text transform="matrix(1 0 0 1 2985.5703 2938.7773)" class="text text-jpn">岐阜県</text>
 	</g>
 	<g id="JP-22" class="prefecture">
 		<g class="pref-shape">
@@ -256,8 +256,8 @@
 			3379.1,3056.2 3392,3043.2 3425.2,3042.1 3453.1,3063.1 3428.3,3064.9 3422.6,3101.8 3418.1,3140.9 3436.1,3165.4 3468.2,3155.4 
 			3478.6,3126.3 3501,3097 3503.3,3081.6 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3217.5413 3105.0498)" class="pref-text-eng">SHIZUOKA</text>
-		<text transform="matrix(1 0 0 1 3172.4927 3109.1667)" class="pref-text-jpn">　静岡県</text>
+		<text transform="matrix(1 0 0 1 3217.5413 3105.0498)" class="text text-eng">SHIZUOKA</text>
+		<text transform="matrix(1 0 0 1 3172.4927 3109.1667)" class="text text-jpn">　静岡県</text>
 	</g>
 	<g id="JP-23" class="prefecture">
 		<g class="pref-shape">
@@ -268,8 +268,8 @@
 			3131.1,3123.8 3133.7,3136.6 3120.6,3137.9 3117.2,3144.6 3091.5,3155.1 3079.9,3153.1 3068.2,3172.7 3096.6,3170.4 3165.3,3154 
 			3165.6,3112.8 3192.8,3102.4 3234.2,3034.1 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 3065.3296 3076.8433)" class="pref-text-eng">AICHI</text>
-		<text transform="matrix(1 0 0 1 3051.7278 3079.1221)" class="pref-text-jpn">愛知県</text>
+		<text transform="matrix(1 0 0 1 3065.3296 3076.8433)" class="text text-eng">AICHI</text>
+		<text transform="matrix(1 0 0 1 3051.7278 3079.1221)" class="text text-jpn">愛知県</text>
 	</g>
 	<g id="JP-24" class="prefecture">
 		<g class="pref-shape">
@@ -280,8 +280,8 @@
 			2884.1,3340.9 2892.8,3340.9 2916.5,3320.5 2908.1,3296.8 2912.3,3288.3 2922.5,3292.6 2925.7,3285 2920.1,3279.4 2978.4,3250 
 			3008.7,3244.5 3015.5,3250 3031.6,3253.4 3044.8,3247 3046.4,3220.8 3046.8,3203.6 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 2920.7061 3219.9631)" class="pref-text-eng">MIE</text>
-		<text transform="matrix(1 0 0 1 2909.8674 3225.9001)" class="pref-text-jpn">三重県</text>
+		<text transform="matrix(1 0 0 1 2920.7061 3219.9631)" class="text text-eng">MIE</text>
+		<text transform="matrix(1 0 0 1 2909.8674 3225.9001)" class="text text-jpn">三重県</text>
 	</g>
 	<g id="JP-25" class="prefecture">
 		<g class="pref-shape">
@@ -289,8 +289,8 @@
 			2945.7,3016 2941.9,3016.7 2951.5,2962.8 2918,2907.2 2893.1,2904.6 2896.1,2930.8 2860.2,2952.9 2851.8,2951 2812.3,2980.4 
 			2830.1,3005.9 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 2826.4609 3052.77)" class="pref-text-eng">SHIGA</text>
-		<text transform="matrix(1 0 0 1 2712.7148 2878.4629)" class="pref-text-jpn">滋賀県</text>
+		<text transform="matrix(1 0 0 1 2826.4609 3052.77)" class="text text-eng">SHIGA</text>
+		<text transform="matrix(1 0 0 1 2712.7148 2878.4629)" class="text text-jpn">滋賀県</text>
 	</g>
 	<g id="JP-26" class="prefecture">
 		<g class="pref-shape">
@@ -301,8 +301,8 @@
 			2749.9,2928.4 2749.9,2922 2726.9,2936.9 2726.9,2947.8 2723.4,2942.9 2708.2,2939.7 2712.8,2933.2 2709.9,2926.7 2698.6,2938.1 
 			2697.2,2929.5 2718.7,2906.2 2703.3,2880.4 2654.3,2901.7 2646.4,2910.6 2631,2910.5 2630.8,2929.6 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 2684.2329 3019.9595)" class="pref-text-eng">KYOTO</text>
-		<text transform="matrix(1 0 0 1 2569.5647 2895.5591)" class="pref-text-jpn">京都府</text>
+		<text transform="matrix(1 0 0 1 2684.2329 3019.9595)" class="text text-eng">KYOTO</text>
+		<text transform="matrix(1 0 0 1 2569.5647 2895.5591)" class="text text-jpn">京都府</text>
 	</g>
 	<g id="JP-27" class="prefecture">
 		<g class="pref-shape">
@@ -311,8 +311,8 @@
 			2751.8,3131.3 2752.6,3146.6 2739,3156.2 2737.2,3166.8 2740.3,3176.9 2748.9,3179.5 2737.1,3190.9 2720.3,3216.3 2698.1,3231.7 
 			2684.4,3236.6 2677.7,3236.3 2677.3,3236.8 2683.4,3248.9 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 2655.5464 3211.5632)" class="pref-text-eng">OSAKA</text>
-		<text transform="matrix(1 0 0 1 2654.2983 3210.7832)" class="pref-text-jpn">大阪府</text>
+		<text transform="matrix(1 0 0 1 2655.5464 3211.5632)" class="text text-eng">OSAKA</text>
+		<text transform="matrix(1 0 0 1 2654.2983 3210.7832)" class="text text-jpn">大阪府</text>
 	</g>
 	<g id="JP-28" class="prefecture">
 		<g class="pref-shape">
@@ -326,8 +326,8 @@
 			2648.6,3248.5 2645.7,3239.2 2636.3,3229.3 2636.9,3213.4 2653,3192.3 2658.6,3180.2 2664.8,3170.3 2658.5,3166.8 2618.9,3202 
 			2598.6,3236.6 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 2549.8936 3078.8215)" class="pref-text-eng">HYOGO</text>
-		<text transform="matrix(1 0 0 1 2552.9102 3081.5303)" class="pref-text-jpn">兵庫県</text>
+		<text transform="matrix(1 0 0 1 2549.8936 3078.8215)" class="text text-eng">HYOGO</text>
+		<text transform="matrix(1 0 0 1 2552.9102 3081.5303)" class="text text-jpn">兵庫県</text>
 	</g>
 	<g id="JP-29" class="prefecture">
 		<g class="pref-shape">
@@ -336,8 +336,8 @@
 			2804.6,3250.7 2806.6,3266 2794.7,3261.8 2768.7,3296.2 2786.5,3318.6 2783,3344 2836.6,3341.3 2843.6,3323.4 2868.9,3308 
 			2881,3308.7 2881,3209.5 2905.4,3204.3 2907.2,3190.2 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 2914.2954 3389.2007)" class="pref-text-eng">NARA</text>
-		<text transform="matrix(1 0 0 1 2902.8667 3390.0718)" class="pref-text-jpn">奈良県</text>
+		<text transform="matrix(1 0 0 1 2914.2954 3389.2007)" class="text text-eng">NARA</text>
+		<text transform="matrix(1 0 0 1 2902.8667 3390.0718)" class="text text-jpn">奈良県</text>
 	</g>
 	<g id="JP-30" class="prefecture">
 		<g class="pref-shape">
@@ -348,8 +348,8 @@
 			2727.3,3397.5 2737,3403.1 2736.7,3411.1 2740.8,3420.3 2755.5,3428.3 2778.8,3436.3 2804.8,3443.2 2814.4,3443.2 2806.8,3451.6 
 			2820.4,3450.9 2817.2,3444.1 2827.4,3434.3 2851.6,3419.8 2864.3,3382.2 2849.8,3381.2 2832.5,3351.7 2836.6,3341.3 2783,3344 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 2594.8286 3408.0029)" class="pref-text-eng">WAKAYAMA</text>
-		<text transform="matrix(1 0 0 1 2640.2104 3404.3032)" class="pref-text-jpn">和歌山県</text>
+		<text transform="matrix(1 0 0 1 2594.8286 3408.0029)" class="text text-eng">WAKAYAMA</text>
+		<text transform="matrix(1 0 0 1 2640.2104 3404.3032)" class="text text-jpn">和歌山県</text>
 	</g>
 	<g id="JP-31" class="prefecture">
 		<g class="pref-shape">
@@ -359,8 +359,8 @@
 			2456.2,2940.8 2434.7,2946.7 2419,2946.9 2393.2,2949.2 2368.8,2940.9 2338.9,2950.7 2333,2960.1 2321.5,2950.7 2316.1,2937.5 
 			2310.7,2938.8 2316.1,2952.4 2324.5,2964 2331.5,2969.2 2331,2973.1 2325.5,2969 2313.8,2969 2312.6,3006.4 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 2345.8379 2985.2275)" class="pref-text-eng">TOTTORI</text>
-		<text transform="matrix(1 0 0 1 2355.7534 2980.0601)" class="pref-text-jpn">鳥取県</text>
+		<text transform="matrix(1 0 0 1 2345.8379 2985.2275)" class="text text-eng">TOTTORI</text>
+		<text transform="matrix(1 0 0 1 2355.7534 2980.0601)" class="text text-jpn">鳥取県</text>
 	</g>
 	<g id="JP-32" class="prefecture">
 		<g class="pref-shape">
@@ -373,8 +373,8 @@
 			2200.9,2960.4 2174.3,2965.3 2183.2,2973 2181.8,2987.4 2169.6,3004.5 2145.5,3016.3 2122.8,3037.9 2097.1,3064.3 2073.7,3082.9 
 			2042.9,3108.8 2019.2,3131.4 2002.6,3147.5 1980.3,3149.8 1990.6,3177.2 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 1999.2334 3075.3105)" class="pref-text-eng">SHIMANE</text>
-		<text transform="matrix(1 0 0 1 2037.3684 3080.1812)" class="pref-text-jpn">島根県</text>
+		<text transform="matrix(1 0 0 1 1999.2334 3075.3105)" class="text text-eng">SHIMANE</text>
+		<text transform="matrix(1 0 0 1 2037.3684 3080.1812)" class="text text-jpn">島根県</text>
 	</g>
 	<g id="JP-33" class="prefecture">
 		<g class="pref-shape">
@@ -385,8 +385,8 @@
 			2416.6,3208.9 2415.7,3202.7 2424.1,3199.4 2438.4,3205.2 2442.4,3196.7 2450.2,3185.5 2452.9,3187 2460.7,3176.1 2471.6,3172.5 
 			2486.9,3166.8 2495.4,3150.3 2512.3,3136.3 2519.3,3138.3 2524.6,3137.7 2508.4,3108.7 2509.7,3072.5 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 2307.9175 3081.7632)" class="pref-text-eng">OKAYAMA</text>
-		<text transform="matrix(1 0 0 1 2342.3279 3104.8049)" class="pref-text-jpn">岡山県</text>
+		<text transform="matrix(1 0 0 1 2307.9175 3081.7632)" class="text text-eng">OKAYAMA</text>
+		<text transform="matrix(1 0 0 1 2342.3279 3104.8049)" class="text text-jpn">岡山県</text>
 	</g>
 	<g id="JP-34" class="prefecture">
 		<g class="pref-shape">
@@ -398,8 +398,8 @@
 			2188,3258.7 2204.2,3255.9 2211.8,3239.8 2221.7,3242 2238.6,3233.3 2254.5,3234.9 2264.5,3232.5 2268.7,3220.9 2276.2,3222 
 			2297.6,3214.5 2301.5,3208.9 2307.4,3210.4 2304.5,3218 2323.1,3225.3 2340.3,3211.7 2337.5,3205.2 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 2086.1985 3190.033)" class="pref-text-eng">HIROSHIMA</text>
-		<text transform="matrix(1 0 0 1 2133.5759 3181.3691)" class="pref-text-jpn">広島県</text>
+		<text transform="matrix(1 0 0 1 2086.1985 3190.033)" class="text text-eng">HIROSHIMA</text>
+		<text transform="matrix(1 0 0 1 2133.5759 3181.3691)" class="text text-jpn">広島県</text>
 	</g>
 	<g id="JP-35" class="prefecture">
 		<g class="pref-shape">
@@ -415,8 +415,8 @@
 			2066.9,3346.2 2071.6,3354.4 2076.8,3355.1 2080.3,3350.5 2073.2,3340.2 2068.5,3327 2083.4,3326 2091.4,3304.1 2087.6,3287.4 
 			2095.4,3278.7 2097.1,3266.5 2094,3259.9 2078.9,3259.4 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 1824.9573 3291.9329)" class="pref-text-eng">YAMAGUCHI</text>
-		<text transform="matrix(1 0 0 1 1872.4456 3285.7107)" class="pref-text-jpn">山口県</text>
+		<text transform="matrix(1 0 0 1 1824.9573 3291.9329)" class="text text-eng">YAMAGUCHI</text>
+		<text transform="matrix(1 0 0 1 1872.4456 3285.7107)" class="text text-jpn">山口県</text>
 	</g>
 	<g id="JP-36" class="prefecture">
 		<g class="pref-shape">
@@ -425,8 +425,8 @@
 			l14.6-9.5l10.4,4.2l6.7,29.2l21,3.9l-4.9,16.7l15.8,12.8c0.7,0.1,17.9,1.4,17.4,3.1c-0.5,1.7,11.6-12.1,11.6-12.1l3.5-12l16.2-7.1
 			l22.5-18.1l35.3-21.2L2585.3,3347.4z"/>
 		</g>
-		<text transform="matrix(1 0 0 1 2403.2593 3343.4294)" class="pref-text-eng">TOKUSHIMA</text>
-		<text transform="matrix(1 0 0 1 2423.4109 3345.1533)" class="pref-text-jpn">徳島県</text>
+		<text transform="matrix(1 0 0 1 2403.2593 3343.4294)" class="text text-eng">TOKUSHIMA</text>
+		<text transform="matrix(1 0 0 1 2423.4109 3345.1533)" class="text text-jpn">徳島県</text>
 	</g>
 	<g id="JP-37" class="prefecture">
 		<g class="pref-shape">
@@ -437,8 +437,8 @@
 		<path class="st0" d="M2485.6,3192.5l-5.3,7.8l3.5,3.1l8.3-6.7l7.7,2.9c0,0-1.4,15.6-0.1,15.5s6.5,0,6.5,0l0.6-8.9l10.6,0.4l5.1,2.2
 			l3.1-20.5l-3.1-10l-17,3.4l-12.8,6.8l-5.5-1.8L2485.6,3192.5z"/>
 		</g>
-		<text transform="matrix(1 0 0 1 2359.5142 3258.0664)" class="pref-text-eng">KAGAWA</text>
-		<text transform="matrix(1 0 0 1 2382.7766 3259.9717)" class="pref-text-jpn">香川県</text>
+		<text transform="matrix(1 0 0 1 2359.5142 3258.0664)" class="text text-eng">KAGAWA</text>
+		<text transform="matrix(1 0 0 1 2382.7766 3259.9717)" class="text text-jpn">香川県</text>
 	</g>
 	<g id="JP-38" class="prefecture">
 		<g class="pref-shape">
@@ -452,8 +452,8 @@
 			2149.2,3564.3 2143.4,3566.1 2145.9,3571.4 2136.9,3574.3 2142.3,3583 2149.2,3584.3 2158.6,3579.5 2164.1,3577 2169.2,3582.5 
 			2178.2,3579.2 2182.2,3579.5 2182.2,3534.9 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 2122.5183 3418.1343)" class="pref-text-eng">EHIME</text>
-		<text transform="matrix(1 0 0 1 2127.0508 3390.0718)" class="pref-text-jpn">愛媛県</text>
+		<text transform="matrix(1 0 0 1 2122.5183 3418.1343)" class="text text-eng">EHIME</text>
+		<text transform="matrix(1 0 0 1 2127.0508 3390.0718)" class="text text-jpn">愛媛県</text>
 	</g>
 	<g id="JP-39" class="prefecture">
 		<g class="pref-shape">
@@ -463,8 +463,8 @@
 			c-0.4-0.5-1.4-11.9-1.4-11.9l9.5-2.7l1.4-25.2l6.5-14l11.1,2.4l18.2-33.4l7.4,3.3l7.2-32.8l6-26.1l6.5,7.8l28.2-13.4l1.5-8.7
 			l22-12.4l35.6-10.1l37.9,13.4l21.9,24.7l28.5,35.7l7.9-37.2l14.4-31.9L2500.6,3423z"/>
 		</g>
-		<text transform="matrix(1 0 0 1 2301.0737 3409.7307)" class="pref-text-eng">KOCHI</text>
-		<text transform="matrix(1 0 0 1 2296.0508 3411.9453)" class="pref-text-jpn">高知県</text>
+		<text transform="matrix(1 0 0 1 2301.0737 3409.7307)" class="text text-eng">KOCHI</text>
+		<text transform="matrix(1 0 0 1 2296.0508 3411.9453)" class="text text-jpn">高知県</text>
 	</g>
 	<g id="JP-40" class="prefecture">
 		<g class="pref-shape">
@@ -475,8 +475,8 @@
 			l1.3-5l-7.3-1.1l-1.5-10l-6-1.8l-8.7,10.4l-14.4,6l4.2,10.8l6,5l-20.4,9.3l-1.9,5.5l48.1,0.2l33.1,19.2l22.8-16.1l-0.8,29l-4.8-0.8
 			l-16.9,14.6l-15.4,24.6l-2.8,13.7l17.7,17.8l-3,9l1.2,6.7l18.2-4.1L1740.1,3548.4z"/>
 		</g>
-		<text transform="matrix(1 0 0 1 1672.2603 3429.0603)" class="pref-text-eng">FUKUOKA</text>
-		<text transform="matrix(1 0 0 1 1717.0457 3420.8699)" class="pref-text-jpn">福岡県</text>
+		<text transform="matrix(1 0 0 1 1672.2603 3429.0603)" class="text text-eng">FUKUOKA</text>
+		<text transform="matrix(1 0 0 1 1717.0457 3420.8699)" class="text text-jpn">福岡県</text>
 	</g>
 	<g id="JP-41" class="prefecture">
 		<g class="pref-shape">
@@ -486,8 +486,8 @@
 			1622.8,3536.1 1648.5,3563 1684.7,3573.6 1687.7,3568.8 1664.4,3536.5 1683.2,3513.2 1704.7,3525.1 1708.9,3529.4 1711.8,3515.7 
 			1727.1,3491.1 1744,3476.5 1748.8,3477.2 1749.7,3448.2 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 1605.9321 3491.8726)" class="pref-text-eng">SAGA</text>
-		<text transform="matrix(1 0 0 1 1493.1382 3456.3423)" class="pref-text-jpn">佐賀県</text>
+		<text transform="matrix(1 0 0 1 1605.9321 3491.8726)" class="text text-eng">SAGA</text>
+		<text transform="matrix(1 0 0 1 1493.1382 3456.3423)" class="text text-jpn">佐賀県</text>
 	</g>
 	<g id="JP-42" class="prefecture">
 		<g class="pref-shape">
@@ -499,8 +499,8 @@
 			c0,0-13.8,7.5-13.7,7.6c0,0.1,10.5,21.7,10.5,21.7l17.5-11.7l20.2-9.4l0.9-7.5c0,0,2.8-19,2.6-19.3c-0.1-0.3-16.9-22.8-16.9-22.8
 			l-11.1,2.8l-17.5,6.3l-14-2.9l21.7-12l5.9-9.2l-36.2-10.6L1622.8,3536.1z"/>
 		</g>
-		<text transform="matrix(1 0 0 1 1467.1743 3613.1667)" class="pref-text-eng">NAGASAKI</text>
-		<text transform="matrix(1 0 0 1 1518.5459 3616.562)" class="pref-text-jpn">長崎県</text>
+		<text transform="matrix(1 0 0 1 1467.1743 3613.1667)" class="text text-eng">NAGASAKI</text>
+		<text transform="matrix(1 0 0 1 1518.5459 3616.562)" class="text text-jpn">長崎県</text>
 		<polygon class="st0" points="1500.9,3157.9 1495.5,3178 1502.3,3182.8 1492.8,3198.5 1492.8,3207.8 1490.2,3224.5 1483.6,3225.8 
 			1484.4,3229.8 1494.8,3231 1496.7,3230.6 1503.5,3224.3 1505.9,3231 1505.4,3235.1 1497.8,3233.4 1500.5,3238.7 1505.9,3241.3 
 			1513.7,3235.8 1516.6,3214.4 1510.9,3207.6 1516.7,3196.8 1527.5,3185.6 1531.8,3171.7 1534.4,3153.5 1526.1,3143.1 1513.7,3157.2 
@@ -518,8 +518,8 @@
 			1641.2,3733.2 1634.8,3740.9 1640.9,3750 1639.2,3756 1654.3,3752.7 1664.5,3743.2 1670.4,3729.1 1682.7,3727 1685.3,3713.6 
 			1679.8,3705.5 1681.1,3690.4 1679.9,3675 1672.1,3669 1659.1,3671.2 1650.4,3677.7 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 1582.4194 3718.8594)" class="pref-text-eng">KUMAMOTO</text>
-		<text transform="matrix(1 0 0 1 1694.1082 3719.8782)" class="pref-text-jpn">熊本県</text>
+		<text transform="matrix(1 0 0 1 1582.4194 3718.8594)" class="text text-eng">KUMAMOTO</text>
+		<text transform="matrix(1 0 0 1 1694.1082 3719.8782)" class="text text-jpn">熊本県</text>
 	</g>
 	<g id="JP-44" class="prefecture">
 		<g class="pref-shape">
@@ -530,8 +530,8 @@
 			l-8.6-19.5l23-10l18.6,23.7l26.6,66.6l4.9,0.4l3.1,6.8l24.6-6.7l8.4,8.3l-2.3,6.7l13.8,4.5l3.1-4.2l18.1,0.9l8-3.6l3.7-12.4l24.6,4
 			l-2.4,10.4l3.3,11.3l7.4-17.5l14.9,2.1l7.6-10.6l-13-3.1l13.5-9.1L2044.8,3583.6z"/>
 		</g>
-		<text transform="matrix(1 0 0 1 1904.0596 3560.6274)" class="pref-text-eng">OITA</text>
-		<text transform="matrix(1 0 0 1 1844.3345 3495.2795)" class="pref-text-jpn">大分県</text>
+		<text transform="matrix(1 0 0 1 1904.0596 3560.6274)" class="text text-eng">OITA</text>
+		<text transform="matrix(1 0 0 1 1844.3345 3495.2795)" class="text text-jpn">大分県</text>
 	</g>
 	<g id="JP-45" class="prefecture">
 		<g class="pref-shape">
@@ -543,8 +543,8 @@
 			1943,3858.1 1934,3848.4 1937,3822.6 1972.3,3705.9 1980.7,3702.9 1982.4,3697 1979.1,3693 1977.8,3687.7 1985.9,3689.9 
 			1990.3,3684.4 1985.2,3677.1 1988.5,3661.4 1996.5,3659.3 2000.9,3642.5 2014.8,3635.5 2018.4,3627 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 1827.3528 3816.9976)" class="pref-text-eng">MIYAZAKI</text>
-		<text transform="matrix(1 0 0 1 1822.9924 3818.479)" class="pref-text-jpn">宮崎県</text>
+		<text transform="matrix(1 0 0 1 1827.3528 3816.9976)" class="text text-eng">MIYAZAKI</text>
+		<text transform="matrix(1 0 0 1 1822.9924 3818.479)" class="text text-jpn">宮崎県</text>
 	</g>
 	<g id="JP-46" class="prefecture">
 		<g class="pref-shape">
@@ -561,8 +561,8 @@
 		<polygon class="st0" points="1735.7,4180.5 1725,4197 1717.6,4197.1 1717.6,4210.3 1726.7,4228.9 1737.7,4234.9 1756.4,4233.7 
 			1770.1,4220.5 1775.9,4207.7 1775.6,4199.5 1754.6,4186 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 1558.3538 3862.9419)" class="pref-text-eng">KAGOSHIMA</text>
-		<text transform="matrix(1 0 0 1 1613.2339 3862.5027)" class="pref-text-jpn">鹿児島県</text>
+		<text transform="matrix(1 0 0 1 1558.3538 3862.9419)" class="text text-eng">KAGOSHIMA</text>
+		<text transform="matrix(1 0 0 1 1613.2339 3862.5027)" class="text text-jpn">鹿児島県</text>
 	</g>
 	<g id="JP-47" class="prefecture">
 		<g class="pref-shape">
@@ -578,8 +578,8 @@
 		<polygon class="st0" points="1415.7,4806.7 1412.6,4832.2 1415.2,4840.1 1411.3,4848.7 1422.8,4864 1432.6,4860.7 1440.8,4838.9 
 			1428.3,4823.4 1428.4,4807.4 	"/>
 		</g>
-		<text transform="matrix(1 0 0 1 1260.4868 5167.4741)" class="pref-text-eng">OKINAWA</text>
-		<text transform="matrix(1 0 0 1 1285.4363 5170.7769)" class="pref-text-jpn">沖縄県</text>
+		<text transform="matrix(1 0 0 1 1260.4868 5167.4741)" class="text text-eng">OKINAWA</text>
+		<text transform="matrix(1 0 0 1 1285.4363 5170.7769)" class="text text-jpn">沖縄県</text>
 	</g>
 	<g id="JP-Lines">
 		<line class="st6" x1="2795.8" y1="2888.3" x2="2872.7" y2="2983.4"/>
