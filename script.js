@@ -1,5 +1,5 @@
 let original_x, original_y, original_width, original_height;
-let svg, pref;
+let svg, pref, chosen;
 
 // const fileURL = "";
 const fileURL = "https://sambelmonte.github.io/map-of-japan/";
@@ -29,6 +29,7 @@ function reset(event) {
   d3.selectAll(".text-eng").attr("class", "text text-eng").raise();
   d3.selectAll(".text-jpn").attr("class", "text text-jpn").raise();
   d3.select("#JP-Lines").attr("class", "").raise();
+  chosen = null;
   // prov.classed("selectedlgu", false).classed("lgu", true);
   // provColor();
   // d3.selectAll(".full-lgu").attr('fill', "auto").classed("selectedlgu", false).raise();
@@ -52,7 +53,12 @@ function clicked(event) {
   const prefId = event.target.parentNode.id
     ? event.target.parentNode.id
     : event.target.parentNode.parentNode.id;
-  show(prefId);
+  if (chosen === prefId) {
+    reset();
+  } else {
+  chosen = prefId;
+    show(prefId);
+  }
 }
 
 function show(prefId) {
@@ -62,7 +68,7 @@ function show(prefId) {
     y,
     width,
     height
-  } = document.getElementById(prefId).getBBox();
+  } = document.getElementById(`${prefId}-shape`).getBBox();
   d3.selectAll(".pref-shape").attr("class", "pref-shape");
   d3.selectAll(".text-eng").attr("class", "text text-eng").raise();
   d3.selectAll(".text-jpn").attr("class", "text text-jpn").raise();
