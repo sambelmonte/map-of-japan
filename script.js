@@ -1,8 +1,9 @@
 let original_x, original_y, original_width, original_height;
 let svg, pref, chosen;
+let language = 'eng';
 
-// const fileURL = "";
-const fileURL = "https://sambelmonte.github.io/map-of-japan/";
+const fileURL = "";
+// const fileURL = "https://sambelmonte.github.io/map-of-japan/";
 d3.svg(`${fileURL}assets/japanmap.svg`).then((svgMap) => {
   d3.select("body").node().prepend(svgMap.documentElement);
   svg = d3.select("#JPMap");
@@ -26,9 +27,18 @@ d3.svg(`${fileURL}assets/japanmap.svg`).then((svgMap) => {
 
 function reset(event) {
   d3.selectAll(".pref-shape").attr("class", "pref-shape");
-  d3.selectAll(".text-eng").attr("class", "text text-eng").raise();
-  d3.selectAll(".text-jpn").attr("class", "text text-jpn").raise();
   d3.select("#JP-Lines").attr("class", "").raise();
+  if (language === 'eng') {
+    d3.selectAll(".text-jpn").attr("class", "text text-jpn hide-text").raise();
+    d3.selectAll(".text-eng").attr("class", "text text-eng").raise();
+    d3.selectAll(".line-jpn").attr("class", "line-jpn hide-lines").raise();
+    d3.selectAll(".line-eng").attr("class", "line-eng").raise();
+  } else {
+    d3.selectAll(".text-eng").attr("class", "text text-eng hide-text").raise();
+    d3.selectAll(".text-jpn").attr("class", "text text-jpn").raise();
+    d3.selectAll(".line-eng").attr("class", "line-eng hide-lines").raise();
+    d3.selectAll(".line-jpn").attr("class", "line-jpn").raise();
+  }
   chosen = null;
   // prov.classed("selectedlgu", false).classed("lgu", true);
   // provColor();
@@ -54,7 +64,7 @@ function clicked(event) {
   if (chosen === prefId) {
     reset();
   } else {
-  chosen = prefId;
+    chosen = prefId;
     show(prefId);
   }
 }
@@ -68,8 +78,13 @@ function show(prefId) {
     height
   } = document.getElementById(`${prefId}-shape`).getBBox();
   d3.selectAll(".pref-shape").attr("class", "pref-shape");
-  d3.selectAll(".text-eng").attr("class", "text text-eng").raise();
-  d3.selectAll(".text-jpn").attr("class", "text text-jpn").raise();
+  if (language === 'eng') {
+    d3.selectAll(".text-jpn").attr("class", "text text-jpn hide-text").raise();
+    d3.selectAll(".text-eng").attr("class", "text text-eng").raise();
+  } else {
+    d3.selectAll(".text-eng").attr("class", "text text-eng hide-text").raise();
+    d3.selectAll(".text-jpn").attr("class", "text text-jpn").raise();
+  }
   d3.select("#JP-Lines").attr("class", "hide-lines");
   svg.transition().duration(750).attr("viewBox", [x-75, y-75, width+150, height+150]);
   d3.select("#"+prefId).raise();
