@@ -584,8 +584,8 @@
 	<g id="JP-Lines">
 		<line class="line-jpn" x1="2795.8" y1="2888.3" x2="2872.7" y2="2983.4"/>
 		<line class="line-eng" x1="3500.8" y1="3188.4" x2="3422.4" y2="2958.7"/>
-		<line class="line-jpn line-eng" x1="3585.5" y1="3103.8" x2="3536.8" y2="2978.4"/>
-		<line class="line-jpn line-eng" x1="2912.7" y1="3344" x2="2851.4" y2="3277.7"/>
+		<line class="line-both" x1="3585.5" y1="3103.8" x2="3536.8" y2="2978.4"/>
+		<line class="line-both" x1="2912.7" y1="3344" x2="2851.4" y2="3277.7"/>
 	</g>
 </g>
 </svg>
